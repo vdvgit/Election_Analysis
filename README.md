@@ -4,7 +4,7 @@
 The purpose of this script is to perofrm an audit of a recent local congressional election.
 
 ## Election-Audit Results
-![Terminal output screenshot](analysis/election_analysis_terminal.png "Title")
+![Terminal output screenshot](https://github.com/vdvgit/Election_Analysis/blob/main/Analysis/election_analysis_terminal.png "Terminal output screenshot")
 
 - How many votes were cast in this congressional election?
   - 369,711 votes
