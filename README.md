@@ -4,6 +4,8 @@
 The purpose of this script is to perofrm an audit of a recent local congressional election.
 
 ## Election-Audit Results
+![Terminal output screenshot](analysis/election_analysis_terminal.png "Title")
+
 - How many votes were cast in this congressional election?
   - 369,711 votes
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
