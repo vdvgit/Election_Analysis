@@ -24,4 +24,4 @@ The purpose of this script is to perofrm an audit of a recent local congressiona
    - Winning Percentage: 73.8%
 
 ## Election-Audit Summary
-- This script can be modified and used for any election (from Senate to Presidential election). Additionally, with further development it could be made into a more user friendly format, to allow anyone (regardless of programmer experience level) to edit the variables that are being input into the script (by the use of an editable text file). 
+- This script can be modified and used for any election. One improvement that could be made, is adding an editable text file to allow anyone (regardless of programmer experience level) to edit the variables that are being input into the script. A second improvement that could be made, is to allow multiple csv files to be loaded to allow auditing of election data from multiple sources (districts, states, etc.). 
